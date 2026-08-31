@@ -1,0 +1,5 @@
+name = "hldglitch-cdn"
+compatibility_date = "2026-08-31"
+
+[site]
+bucket = "./"
